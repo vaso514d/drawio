@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T08:17:05.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="iHIj_uO9Rwel6L4nhm4U" version="20.8.23" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-06T08:20:59.631Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="xZRXbl2K6kXGbFJq0YAo" version="20.8.23" type="github" pages="3">
   <diagram id="WNIIqbhXH_JYyIdbcv7f" name="შეღავათიანიi კურსზე შეთანხმება">
-    <mxGraphModel dx="1420" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1036" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -283,7 +283,7 @@
         </mxCell>
         <UserObject label="RateRequest" link="data:page/id,WNIIqbhXH_JYyIdbcv7f" id="P6x5vUnbgCcCFajjRTt9-14">
           <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontColor=#000000;" parent="1" vertex="1">
-            <mxGeometry x="430" y="20" width="160" height="286" as="geometry" />
+            <mxGeometry x="430" y="20" width="160" height="338" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="P6x5vUnbgCcCFajjRTt9-15" value="RequestID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#000000;" parent="P6x5vUnbgCcCFajjRTt9-14" vertex="1">
@@ -310,11 +310,17 @@
         <mxCell id="P6x5vUnbgCcCFajjRTt9-26" value="Amount" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#000000;" parent="P6x5vUnbgCcCFajjRTt9-14" vertex="1">
           <mxGeometry y="208" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="P6x5vUnbgCcCFajjRTt9-27" value="ExchangeType" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#000000;" parent="P6x5vUnbgCcCFajjRTt9-14" vertex="1">
+        <mxCell id="j_9114IxFJts1MH7_ecT-1" value="OperationDate" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#CC0000;fontStyle=2" vertex="1" parent="P6x5vUnbgCcCFajjRTt9-14">
           <mxGeometry y="234" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="P6x5vUnbgCcCFajjRTt9-17" value="RateConversionType" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#000000;" parent="P6x5vUnbgCcCFajjRTt9-14" vertex="1">
+        <mxCell id="j_9114IxFJts1MH7_ecT-2" value="AgreementDateTime" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#CC0000;fontStyle=2" vertex="1" parent="P6x5vUnbgCcCFajjRTt9-14">
           <mxGeometry y="260" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="P6x5vUnbgCcCFajjRTt9-27" value="ExchangeType" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#000000;" parent="P6x5vUnbgCcCFajjRTt9-14" vertex="1">
+          <mxGeometry y="286" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="P6x5vUnbgCcCFajjRTt9-17" value="RateConversionType" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#000000;" parent="P6x5vUnbgCcCFajjRTt9-14" vertex="1">
+          <mxGeometry y="312" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="P6x5vUnbgCcCFajjRTt9-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Hcv9Upy-WteK5k7MVz1i-5" target="P6x5vUnbgCcCFajjRTt9-23" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -342,7 +348,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iDMHjMToH96Z5OEKqoNc" name="შეღავთიანი კურსზე სიტყვიერი შეთანხმება">
-    <mxGraphModel dx="1276" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1036" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -566,7 +572,7 @@
         </mxCell>
         <UserObject label="SuggestedRate" id="B9BTtffNBCWzX15zY59o-3">
           <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontColor=#000000;" parent="1" vertex="1">
-            <mxGeometry x="280" y="50" width="160" height="208" as="geometry" />
+            <mxGeometry x="280" y="50" width="160" height="260" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="B9BTtffNBCWzX15zY59o-5" value="ClientID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#000000;" parent="B9BTtffNBCWzX15zY59o-3" vertex="1">
@@ -584,11 +590,17 @@
         <mxCell id="B9BTtffNBCWzX15zY59o-11" value="Amount" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#000000;" parent="B9BTtffNBCWzX15zY59o-3" vertex="1">
           <mxGeometry y="130" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="B9BTtffNBCWzX15zY59o-12" value="ExchangeType" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#000000;" parent="B9BTtffNBCWzX15zY59o-3" vertex="1">
+        <mxCell id="B9BTtffNBCWzX15zY59o-12" value="OperationDate" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#CC0000;fontStyle=2" parent="B9BTtffNBCWzX15zY59o-3" vertex="1">
           <mxGeometry y="156" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="B9BTtffNBCWzX15zY59o-13" value="RateConversionType" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#000000;" parent="B9BTtffNBCWzX15zY59o-3" vertex="1">
+        <mxCell id="srs9BPWc90L4broZuJ9q-1" value="AgreementDateTime" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#CC0000;fontStyle=2" vertex="1" parent="B9BTtffNBCWzX15zY59o-3">
           <mxGeometry y="182" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="srs9BPWc90L4broZuJ9q-2" value="ExchangeType" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="B9BTtffNBCWzX15zY59o-3">
+          <mxGeometry y="208" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="B9BTtffNBCWzX15zY59o-13" value="RateConversionType" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#000000;" parent="B9BTtffNBCWzX15zY59o-3" vertex="1">
+          <mxGeometry y="234" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="B9BTtffNBCWzX15zY59o-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="B9BTtffNBCWzX15zY59o-11" target="ckAe8WCRwSa0hV0LBj_C-1" edge="1">
           <mxGeometry relative="1" as="geometry">
