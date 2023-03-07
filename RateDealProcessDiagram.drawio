@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T07:51:05.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="TjqVqCvnmESe_KSOxnpF" version="20.8.23" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-07T08:47:30.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="0DxvOPYzwnSH2USjt_Bo" version="20.8.23" type="github" pages="4">
   <diagram id="WNIIqbhXH_JYyIdbcv7f" name="შეღავათიანიi კურსზე შეთანხმება">
-    <mxGraphModel dx="1414" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1488" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -345,12 +345,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Hz9vTrac9k6EBb7m44WP" name="შეღავათიანიi კურსზე შეთანხმება BP">
-    <mxGraphModel dx="1414" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1219" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="NapRjpGxGWk-yeD8tq0e-1" value="ბიზნეს ინტერნეტ ბანკი" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="108" y="86" width="120" height="580" as="geometry" />
+          <mxGeometry x="108" y="86" width="120" height="554" as="geometry" />
         </mxCell>
         <mxCell id="NapRjpGxGWk-yeD8tq0e-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#CCFFFF;" vertex="1" parent="NapRjpGxGWk-yeD8tq0e-1">
           <mxGeometry x="55" y="80" width="10" height="450" as="geometry" />
@@ -386,7 +386,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OC2dcXIhTSpHi5Ehb43I-1" value="TPS.Operational.Api" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="548" y="86" width="160" height="580" as="geometry" />
+          <mxGeometry x="548" y="86" width="160" height="554" as="geometry" />
         </mxCell>
         <mxCell id="OC2dcXIhTSpHi5Ehb43I-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#CCFFFF;" vertex="1" parent="OC2dcXIhTSpHi5Ehb43I-1">
           <mxGeometry x="75" y="80" width="10" height="280" as="geometry" />
@@ -467,7 +467,7 @@
           <mxGeometry x="108" y="10" width="932" height="26" as="geometry" />
         </mxCell>
         <mxCell id="OCmmPgJFP9XWe1WX7dT5-1" value="TPS.Agreement.Api" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="868" y="86" width="160" height="580" as="geometry" />
+          <mxGeometry x="868" y="86" width="160" height="554" as="geometry" />
         </mxCell>
         <mxCell id="Ki9TBUzkQfGxFeOzV7n9-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#CCFFFF;" vertex="1" parent="OCmmPgJFP9XWe1WX7dT5-1">
           <mxGeometry x="75" y="129" width="10" height="71" as="geometry" />
@@ -540,7 +540,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iDMHjMToH96Z5OEKqoNc" name="შეღავთიანი კურსზე სიტყვიერი შეთანხმება">
-    <mxGraphModel dx="1671" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1488" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -785,13 +785,13 @@
         <mxCell id="B9BTtffNBCWzX15zY59o-11" value="Amount" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#000000;" parent="B9BTtffNBCWzX15zY59o-3" vertex="1">
           <mxGeometry y="156" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="srs9BPWc90L4broZuJ9q-2" value="ExchangeType" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="B9BTtffNBCWzX15zY59o-3">
+        <mxCell id="srs9BPWc90L4broZuJ9q-2" value="ExchangeType" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#000000;" parent="B9BTtffNBCWzX15zY59o-3" vertex="1">
           <mxGeometry y="182" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="B9BTtffNBCWzX15zY59o-13" value="RateConversionType" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#000000;" parent="B9BTtffNBCWzX15zY59o-3" vertex="1">
           <mxGeometry y="208" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="srs9BPWc90L4broZuJ9q-1" value="AgreementDateTime" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#CC0000;fontStyle=2" vertex="1" parent="B9BTtffNBCWzX15zY59o-3">
+        <mxCell id="srs9BPWc90L4broZuJ9q-1" value="AgreementDateTime" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#CC0000;fontStyle=2" parent="B9BTtffNBCWzX15zY59o-3" vertex="1">
           <mxGeometry y="234" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="B9BTtffNBCWzX15zY59o-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="B9BTtffNBCWzX15zY59o-11" target="ckAe8WCRwSa0hV0LBj_C-1" edge="1">
@@ -824,7 +824,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7giaEgcTKFILEnfCVy80" name="შეთანხმების გაუქმება">
-    <mxGraphModel dx="1751" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1488" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -933,7 +933,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qTWeQ1gmelFaLsGnsEnV-3" value="დიახ" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1;fontColor=#006633;" edge="1" parent="04HI86VPgtiidFSPBZR_-25" source="qTWeQ1gmelFaLsGnsEnV-2" target="04HI86VPgtiidFSPBZR_-26">
+        <mxCell id="qTWeQ1gmelFaLsGnsEnV-3" value="დიახ" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1;fontColor=#006633;" parent="04HI86VPgtiidFSPBZR_-25" source="qTWeQ1gmelFaLsGnsEnV-2" target="04HI86VPgtiidFSPBZR_-26" edge="1">
           <mxGeometry x="-0.305" y="25" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="145" y="297" />
@@ -942,10 +942,10 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qTWeQ1gmelFaLsGnsEnV-2" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="04HI86VPgtiidFSPBZR_-25">
+        <mxCell id="qTWeQ1gmelFaLsGnsEnV-2" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" parent="04HI86VPgtiidFSPBZR_-25" vertex="1">
           <mxGeometry x="120" y="217" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rqHGySLQDaCzu6r3ErJQ-1" value="&lt;font color=&quot;#330000&quot;&gt;პირველი დონის&lt;br&gt;ვალიდაცია, დელეგირებული პირი&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;fontStyle=1" vertex="1" parent="04HI86VPgtiidFSPBZR_-25">
+        <mxCell id="rqHGySLQDaCzu6r3ErJQ-1" value="&lt;font color=&quot;#330000&quot;&gt;პირველი დონის&lt;br&gt;ვალიდაცია, დელეგირებული პირი&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;fontStyle=1" parent="04HI86VPgtiidFSPBZR_-25" vertex="1">
           <mxGeometry x="180" y="197" width="160" height="53" as="geometry" />
         </mxCell>
         <UserObject label="CancellDeal" id="04HI86VPgtiidFSPBZR_-45">
