@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T07:46:09.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="d-tQOTEhRTduvgJGhCVz" version="20.8.23" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-07T07:49:42.158Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="UC2q2dBKAF4GuNcT4-bd" version="20.8.23" type="github" pages="4">
   <diagram id="WNIIqbhXH_JYyIdbcv7f" name="შეღავათიანიi კურსზე შეთანხმება">
     <mxGraphModel dx="1414" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -360,12 +360,12 @@
             <mxPoint x="52.5" y="89.85000000000002" as="sourcePoint" />
             <mxPoint x="55" y="111" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-51" y="90" />
-              <mxPoint x="-51" y="111" />
+              <mxPoint x="-68" y="90" />
+              <mxPoint x="-68" y="111" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="reUfo1CFChtaAdtldBo7-4" value="მოთხოვნის ID -ს&lt;br&gt;ფორმირება" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="reUfo1CFChtaAdtldBo7-3">
+        <mxCell id="reUfo1CFChtaAdtldBo7-4" value="მოთხოვნის ID -ის&lt;br&gt;ფორმირება" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="reUfo1CFChtaAdtldBo7-3">
           <mxGeometry x="-0.23" y="1" relative="1" as="geometry">
             <mxPoint x="18" y="-8" as="offset" />
           </mxGeometry>
@@ -375,8 +375,8 @@
             <mxPoint x="52.5" y="370" as="sourcePoint" />
             <mxPoint x="55" y="391.15" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-61" y="370" />
-              <mxPoint x="-61" y="391" />
+              <mxPoint x="-68" y="370" />
+              <mxPoint x="-68" y="391" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -487,7 +487,7 @@
             <mxPoint x="18" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ki9TBUzkQfGxFeOzV7n9-4" value="დელეგირებული პირებისთვის&lt;br&gt;მოთხოვნის გადაგზავნა" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;" edge="1" target="Ki9TBUzkQfGxFeOzV7n9-3" parent="1" source="OC2dcXIhTSpHi5Ehb43I-3">
+        <mxCell id="Ki9TBUzkQfGxFeOzV7n9-4" value="დელეგირებული პირებისთვის&lt;br&gt;მოთხოვნის გადაგზავნა" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="Ki9TBUzkQfGxFeOzV7n9-3" parent="1" source="OC2dcXIhTSpHi5Ehb43I-3">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint x="878" y="230" as="sourcePoint" />
             <Array as="points">
@@ -519,6 +519,21 @@
               <mxPoint x="318" y="500" />
               <mxPoint x="568" y="520" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JqXxi1MpLHZqpj23ZU03-3" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="953" y="230" as="sourcePoint" />
+            <mxPoint x="953" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1038" y="230.5" />
+              <mxPoint x="1038" y="260.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JqXxi1MpLHZqpj23ZU03-4" value="გადაწყვეტილების&lt;br&gt;მიღება" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JqXxi1MpLHZqpj23ZU03-3">
+          <mxGeometry x="-0.23" y="1" relative="1" as="geometry">
+            <mxPoint x="18" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
