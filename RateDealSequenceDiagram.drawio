@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T07:29:23.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="km-Cn21HDSyOkqPj1gLn" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T07:34:20.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="BzselMY5tFWApKnWHX_y" version="20.8.23" type="github">
   <diagram id="Hz9vTrac9k6EBb7m44WP" name="შეღავათიანიi კურსზე შეთანხმება SD">
     <mxGraphModel dx="1420" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -189,9 +189,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="reUfo1CFChtaAdtldBo7-2" value="კლიენტის გადაწყვეტილების&lt;br&gt;დაბრუნება" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;startFill=0;exitX=1.07;exitY=0.61;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="NapRjpGxGWk-yeD8tq0e-2" target="reUfo1CFChtaAdtldBo7-1" edge="1">
+        <mxCell id="reUfo1CFChtaAdtldBo7-2" value="კლიენტის გადაწყვეტილების&lt;br&gt;დაბრუნება" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;startFill=0;" parent="1" target="reUfo1CFChtaAdtldBo7-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="500" as="sourcePoint" />
+            <mxPoint x="201" y="500" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="318" y="500" />
               <mxPoint x="568" y="520" />
@@ -203,8 +203,8 @@
             <mxPoint x="953" y="230" as="sourcePoint" />
             <mxPoint x="953" y="260" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1038" y="230.5" />
-              <mxPoint x="1038" y="260.5" />
+              <mxPoint x="1040" y="230" />
+              <mxPoint x="1040" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -252,7 +252,7 @@
         </mxCell>
         <mxCell id="PGhUQlgjF5_GtO2V3m0p-4" value="კლიენტის თანხმობის&lt;br&gt;შემთხვევაში" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" target="PGhUQlgjF5_GtO2V3m0p-3" edge="1">
           <mxGeometry x="-0.8343" y="20" relative="1" as="geometry">
-            <mxPoint x="201" y="630" as="sourcePoint" />
+            <mxPoint x="200" y="600" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="760" y="600" />
               <mxPoint x="980" y="630" />
