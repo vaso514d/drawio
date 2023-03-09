@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T06:51:06.012Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="F7a8xtxlX7qEfllCVKCD" version="20.8.23" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-09T07:39:47.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="T1zPNU6fj1lBPyAckPbV" version="20.8.23" type="github" pages="4">
   <diagram id="WNIIqbhXH_JYyIdbcv7f" name="შეღავათიანიi კურსზე შეთანხმება">
     <mxGraphModel dx="1406" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -834,7 +834,7 @@
           <mxGeometry x="75" y="210" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qMoMlxKszILze7UI2H5o-6" value="&lt;font color=&quot;#330000&quot;&gt;კონვერტაცია დასრულებულია&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;fontStyle=1" vertex="1" parent="qMoMlxKszILze7UI2H5o-1">
-          <mxGeometry x="40" y="140" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qMoMlxKszILze7UI2H5o-7" value="TPS" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="420" y="23" width="590" height="777" as="geometry" />
