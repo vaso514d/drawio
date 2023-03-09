@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T07:39:47.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="T1zPNU6fj1lBPyAckPbV" version="20.8.23" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-09T10:25:32.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="q6QQWCNKwz2-Cs6gaubJ" version="20.8.23" type="github" pages="4">
   <diagram id="WNIIqbhXH_JYyIdbcv7f" name="შეღავათიანიi კურსზე შეთანხმება">
     <mxGraphModel dx="1406" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -819,21 +819,10 @@
         <mxCell id="qMoMlxKszILze7UI2H5o-1" value="B7 Conv Micro Serivice" style="swimlane;html=1;startSize=50;fontStyle=0;collapsible=0;horizontal=1;swimlaneLine=1;strokeWidth=2;swimlaneFillColor=#ffffff;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="20" y="30" width="190" height="770" as="geometry" />
         </mxCell>
-        <mxCell id="qMoMlxKszILze7UI2H5o-2" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;კონვერტაციის გატარების გაუქმება&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#330000;" vertex="1" parent="qMoMlxKszILze7UI2H5o-1">
-          <mxGeometry x="40" y="320" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="qMoMlxKszILze7UI2H5o-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#990000;startArrow=none;startFill=0;" edge="1" parent="qMoMlxKszILze7UI2H5o-1" source="qMoMlxKszILze7UI2H5o-5" target="qMoMlxKszILze7UI2H5o-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qMoMlxKszILze7UI2H5o-4" value="არა" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#990000;fontStyle=1" vertex="1" connectable="0" parent="qMoMlxKszILze7UI2H5o-3">
-          <mxGeometry x="-0.2814" y="-1" relative="1" as="geometry">
-            <mxPoint x="16" y="-14" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qMoMlxKszILze7UI2H5o-5" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="qMoMlxKszILze7UI2H5o-1">
           <mxGeometry x="75" y="210" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qMoMlxKszILze7UI2H5o-6" value="&lt;font color=&quot;#330000&quot;&gt;კონვერტაცია დასრულებულია&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;fontStyle=1" vertex="1" parent="qMoMlxKszILze7UI2H5o-1">
+        <mxCell id="qMoMlxKszILze7UI2H5o-6" value="&lt;font color=&quot;#330000&quot;&gt;კონვერტაციის ოპერაციის&lt;br&gt;ავტორიზაციის ახსნა&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;fontStyle=1" vertex="1" parent="qMoMlxKszILze7UI2H5o-1">
           <mxGeometry x="40" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qMoMlxKszILze7UI2H5o-7" value="TPS" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" vertex="1" parent="1">
@@ -868,10 +857,10 @@
         <mxCell id="qMoMlxKszILze7UI2H5o-14" value="სტატუსის შეცვლა" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#330000;fillStyle=auto;strokeWidth=1;" vertex="1" parent="qMoMlxKszILze7UI2H5o-10">
           <mxGeometry x="35" y="437" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qMoMlxKszILze7UI2H5o-15" value="შეთანხმების გაუქმების&amp;nbsp; პროცესი დასრულდა წარმატებით" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006633;fontStyle=1" vertex="1" parent="qMoMlxKszILze7UI2H5o-10">
+        <mxCell id="qMoMlxKszILze7UI2H5o-15" value="კონვერტაციის გაუქმების&amp;nbsp; პროცესი დასრულდა წარმატებით" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006633;fontStyle=1" vertex="1" parent="qMoMlxKszILze7UI2H5o-10">
           <mxGeometry x="20" y="587" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qMoMlxKszILze7UI2H5o-16" value="შეთანხმება დარჩა ძალაში" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#660000;fontStyle=1" vertex="1" parent="qMoMlxKszILze7UI2H5o-10">
+        <mxCell id="qMoMlxKszILze7UI2H5o-16" value="კონვერტაცია დარჩა ძალაში" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#660000;fontStyle=1" vertex="1" parent="qMoMlxKszILze7UI2H5o-10">
           <mxGeometry x="30" y="707" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qMoMlxKszILze7UI2H5o-17" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 79, 40);&quot;&gt;TPS&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;გარიგება&lt;/b&gt;" style="swimlane;html=1;startSize=40;" vertex="1" parent="qMoMlxKszILze7UI2H5o-7">
@@ -880,7 +869,7 @@
         <mxCell id="qMoMlxKszILze7UI2H5o-18" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="qMoMlxKszILze7UI2H5o-17">
           <mxGeometry x="120" y="353.5" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qMoMlxKszILze7UI2H5o-19" value="&lt;b&gt;ძებნა შეთანხმებულ მაგრამ დაუსრულებელ განაცხადებში&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#330000;" vertex="1" parent="qMoMlxKszILze7UI2H5o-17">
+        <mxCell id="qMoMlxKszILze7UI2H5o-19" value="&lt;b&gt;ძებნა დასრულებულ განაცხადებში&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#330000;" vertex="1" parent="qMoMlxKszILze7UI2H5o-17">
           <mxGeometry x="72.5" y="77" width="145" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qMoMlxKszILze7UI2H5o-20" value="&lt;font color=&quot;#330000&quot;&gt;მეორე დონის ვალიდაცია, მაღალი დონის&lt;br&gt;დელეგირებული პირი&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;fontStyle=1" vertex="1" parent="qMoMlxKszILze7UI2H5o-17">
@@ -956,15 +945,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qMoMlxKszILze7UI2H5o-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qMoMlxKszILze7UI2H5o-2" target="qMoMlxKszILze7UI2H5o-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="520" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="120" y="440" />
-              <mxPoint x="510" y="440" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qMoMlxKszILze7UI2H5o-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#990000;startArrow=none;startFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qMoMlxKszILze7UI2H5o-5" target="qMoMlxKszILze7UI2H5o-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="780" as="targetPoint" />
@@ -974,7 +954,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qMoMlxKszILze7UI2H5o-32" value="დიახ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#006633;fontStyle=1" vertex="1" connectable="0" parent="qMoMlxKszILze7UI2H5o-31">
+        <mxCell id="qMoMlxKszILze7UI2H5o-32" value="არა" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#660000;fontStyle=1" vertex="1" connectable="0" parent="qMoMlxKszILze7UI2H5o-31">
           <mxGeometry x="-0.2436" relative="1" as="geometry">
             <mxPoint x="20" y="-3" as="offset" />
           </mxGeometry>
@@ -992,6 +972,20 @@
         <mxCell id="qMoMlxKszILze7UI2H5o-34" value="დიახ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#006633;" vertex="1" connectable="0" parent="qMoMlxKszILze7UI2H5o-33">
           <mxGeometry x="-0.9268" relative="1" as="geometry">
             <mxPoint x="-22" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMoMlxKszILze7UI2H5o-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#990000;startArrow=none;startFill=0;entryX=0.436;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qMoMlxKszILze7UI2H5o-5" target="qMoMlxKszILze7UI2H5o-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="390" />
+              <mxPoint x="503" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qMoMlxKszILze7UI2H5o-4" value="დიახ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#003300;fontStyle=1" vertex="1" connectable="0" parent="qMoMlxKszILze7UI2H5o-3">
+          <mxGeometry x="-0.2814" y="-1" relative="1" as="geometry">
+            <mxPoint x="-81" y="-51" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
