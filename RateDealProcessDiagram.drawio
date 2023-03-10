@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T12:16:07.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="xsqG0OKNljZJM-ADFLXv" version="20.8.23" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-10T11:59:01.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="LfyILHNkTUb2iurhJt6l" version="20.8.23" type="github" pages="4">
   <diagram id="WNIIqbhXH_JYyIdbcv7f" name="შეღავათიანიi კურსზე შეთანხმება">
-    <mxGraphModel dx="1420" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1036" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -629,7 +629,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7giaEgcTKFILEnfCVy80" name="შეთანხმების გაუქმება IB">
-    <mxGraphModel dx="1420" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1036" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -638,20 +638,6 @@
         </mxCell>
         <mxCell id="04HI86VPgtiidFSPBZR_-4" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;შეთანხმების გაუქმება&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#330000;" parent="04HI86VPgtiidFSPBZR_-1" vertex="1">
           <mxGeometry x="40" y="320" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="6w3wbsPmXBSh9RNu0SIm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#990000;startArrow=none;startFill=0;" parent="04HI86VPgtiidFSPBZR_-1" source="6w3wbsPmXBSh9RNu0SIm-2" target="04HI86VPgtiidFSPBZR_-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6w3wbsPmXBSh9RNu0SIm-5" value="არა" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#990000;fontStyle=1" parent="6w3wbsPmXBSh9RNu0SIm-4" vertex="1" connectable="0">
-          <mxGeometry x="-0.2814" y="-1" relative="1" as="geometry">
-            <mxPoint x="16" y="-14" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6w3wbsPmXBSh9RNu0SIm-2" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" parent="04HI86VPgtiidFSPBZR_-1" vertex="1">
-          <mxGeometry x="75" y="210" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="6w3wbsPmXBSh9RNu0SIm-3" value="&lt;font color=&quot;#330000&quot;&gt;კონვერტაცია დასრულებულია&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;fontStyle=1" parent="04HI86VPgtiidFSPBZR_-1" vertex="1">
-          <mxGeometry x="40" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="04HI86VPgtiidFSPBZR_-11" value="TPS" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="420" y="23" width="590" height="777" as="geometry" />
@@ -761,12 +747,13 @@
         <mxCell id="04HI86VPgtiidFSPBZR_-46" value="RequestID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#000000;" parent="04HI86VPgtiidFSPBZR_-45" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="04HI86VPgtiidFSPBZR_-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.003;exitY=-0.115;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="04HI86VPgtiidFSPBZR_-46" target="6w3wbsPmXBSh9RNu0SIm-2" edge="1">
+        <mxCell id="04HI86VPgtiidFSPBZR_-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.003;exitY=-0.115;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="04HI86VPgtiidFSPBZR_-46" target="04HI86VPgtiidFSPBZR_-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="167" as="sourcePoint" />
-            <mxPoint x="210" y="189.5" as="targetPoint" />
+            <mxPoint x="145" y="265" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="239" y="265" />
+              <mxPoint x="240" y="265" />
+              <mxPoint x="120" y="265" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -777,20 +764,6 @@
               <mxPoint x="120" y="440" />
               <mxPoint x="510" y="440" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6w3wbsPmXBSh9RNu0SIm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#990000;startArrow=none;startFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="6w3wbsPmXBSh9RNu0SIm-2" target="04HI86VPgtiidFSPBZR_-24" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="780" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="50" y="265" />
-              <mxPoint x="50" y="705" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6w3wbsPmXBSh9RNu0SIm-14" value="დიახ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#006633;fontStyle=1" parent="6w3wbsPmXBSh9RNu0SIm-10" vertex="1" connectable="0">
-          <mxGeometry x="-0.2436" relative="1" as="geometry">
-            <mxPoint x="20" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="04HI86VPgtiidFSPBZR_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#006633;entryX=0.99;entryY=-0.057;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="04HI86VPgtiidFSPBZR_-26" target="04HI86VPgtiidFSPBZR_-46" edge="1">
