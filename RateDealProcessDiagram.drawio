@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T15:08:44.868Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="A3NLMfCaWLLJWdQ-D92J" version="20.8.23" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-10T15:19:36.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="TwMyvHNFxtVG80Yo9N7Q" version="20.8.23" type="github" pages="4">
   <diagram id="WNIIqbhXH_JYyIdbcv7f" name="შეღავათიანიi კურსზე შეთანხმება">
-    <mxGraphModel dx="1872" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1632" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -552,9 +552,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="135" y="410" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="455" y="595" />
-              <mxPoint x="455" y="650" />
-              <mxPoint x="134" y="650" />
+              <mxPoint x="134" y="595" />
             </Array>
             <mxPoint x="539" y="595" as="sourcePoint" />
           </mxGeometry>
@@ -567,9 +565,9 @@
         <mxCell id="-iWegg6A6AynjhNWiqT7-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="-iWegg6A6AynjhNWiqT7-25" source="-iWegg6A6AynjhNWiqT7-43" target="-iWegg6A6AynjhNWiqT7-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="285" y="590" />
-              <mxPoint x="191" y="590" />
-              <mxPoint x="191" y="400" />
+              <mxPoint x="385" y="570" />
+              <mxPoint x="191" y="570" />
+              <mxPoint x="191" y="399" />
             </Array>
             <mxPoint x="90" y="560" as="targetPoint" />
           </mxGeometry>
@@ -633,7 +631,7 @@
           <mxGeometry x="50" y="820" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vHjxQm4uPunMVjM5JQCj-28" value="&lt;font&gt;კურსის/შეთანხმების&lt;br&gt;ვალიდაცია ?&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;fontStyle=1" vertex="1" parent="-iWegg6A6AynjhNWiqT7-32">
-          <mxGeometry x="110" y="830" width="140" height="40" as="geometry" />
+          <mxGeometry x="100" y="810" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vHjxQm4uPunMVjM5JQCj-5" value="&lt;b&gt;ოპერაციის შენახვა სანახში&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#330000;arcSize=24;" vertex="1" parent="-iWegg6A6AynjhNWiqT7-32">
           <mxGeometry x="25" y="900" width="100" height="57" as="geometry" />
