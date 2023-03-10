@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T14:25:46.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="8LtqU8FsaOjOo9yvRzUE" version="20.8.23" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-10T14:31:39.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="QMdV21eXiVKxjkezfFQS" version="20.8.23" type="github" pages="4">
   <diagram id="WNIIqbhXH_JYyIdbcv7f" name="შეღავათიანიi კურსზე შეთანხმება">
-    <mxGraphModel dx="1872" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1632" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -340,6 +340,24 @@
         </mxCell>
         <mxCell id="i6vw84MvIE6cZ_uuGkVr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="i6vw84MvIE6cZ_uuGkVr-4" target="i6vw84MvIE6cZ_uuGkVr-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ra-BmyHPr4aX4LMQtCsy-1" value="B7 Conv Micro Serivice" style="swimlane;html=1;startSize=50;fontStyle=0;collapsible=0;horizontal=1;swimlaneLine=1;strokeWidth=2;swimlaneFillColor=#ffffff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="80" width="240" height="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="ra-BmyHPr4aX4LMQtCsy-2" value="&lt;font color=&quot;#330000&quot;&gt;კონვერტაციის ოპერაციის&lt;br&gt;წაშლა/გაუქმება&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;fontStyle=1" vertex="1" parent="ra-BmyHPr4aX4LMQtCsy-1">
+          <mxGeometry x="40" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ra-BmyHPr4aX4LMQtCsy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontColor=#00331A;" edge="1" parent="ra-BmyHPr4aX4LMQtCsy-1" source="ra-BmyHPr4aX4LMQtCsy-4" target="ra-BmyHPr4aX4LMQtCsy-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ra-BmyHPr4aX4LMQtCsy-4" value="&lt;b&gt;კონვერტაციის&lt;br&gt;ოპერაცია&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#330000;arcSize=24;" vertex="1" parent="ra-BmyHPr4aX4LMQtCsy-1">
+          <mxGeometry x="45" y="700" width="100" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="ra-BmyHPr4aX4LMQtCsy-5" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;fontColor=#CC0000;" vertex="1" parent="ra-BmyHPr4aX4LMQtCsy-1">
+          <mxGeometry x="70" y="806" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ra-BmyHPr4aX4LMQtCsy-6" value="&lt;font color=&quot;#330000&quot;&gt;ოპერაცია დასრულდა&lt;br&gt;წარმატებით&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;fontStyle=1" vertex="1" parent="ra-BmyHPr4aX4LMQtCsy-1">
+          <mxGeometry x="110" y="770" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -707,7 +725,7 @@
             <mxPoint x="350" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="PutOperation" id="vHjxQm4uPunMVjM5JQCj-8">
+        <UserObject label="PutConvDoc" id="vHjxQm4uPunMVjM5JQCj-8">
           <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontColor=#000000;" vertex="1" parent="1">
             <mxGeometry x="330" y="830" width="160" height="390" as="geometry" />
           </mxCell>
