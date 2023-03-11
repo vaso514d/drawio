@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-11T10:18:55.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="6xojee0I-95EKhUZIH4n" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-11T10:20:50.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ZuvLTe5yw5xkCEL_zNoP" version="20.8.23" type="github">
   <diagram id="Hz9vTrac9k6EBb7m44WP" name="შეღავათიანიi კურსზე შეთანხმება SD">
     <mxGraphModel dx="1036" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -82,6 +82,21 @@
         <mxCell id="nknmgPoFufhJ2KQw6Ong-1" value="თუ შეთანხმება არა&#xa;ვალიდურია" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=#FFFFFF;fontSize=8;" vertex="1" parent="OC2dcXIhTSpHi5Ehb43I-1">
           <mxGeometry x="-38" y="860" width="112" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="2njt6nfOIMfhhEkoGc3B-12" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;edgeStyle=orthogonalEdgeStyle;" parent="OC2dcXIhTSpHi5Ehb43I-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="85" y="440" as="sourcePoint" />
+            <mxPoint x="85" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="440.5" />
+              <mxPoint x="170" y="470.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ki9TBUzkQfGxFeOzV7n9-6" value="გარიგების სტატუსის&lt;br&gt;ცვლილება" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2njt6nfOIMfhhEkoGc3B-12" vertex="1" connectable="0">
+          <mxGeometry x="-0.23" y="1" relative="1" as="geometry">
+            <mxPoint x="18" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OC2dcXIhTSpHi5Ehb43I-4" value="შეღავათიანი კურსის&lt;br&gt;მოთხოვნა" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NapRjpGxGWk-yeD8tq0e-1" target="aCDmaK2JJfqGugbTNvCX-6" edge="1">
           <mxGeometry x="-0.0323" y="14" relative="1" as="geometry">
             <mxPoint x="348" y="190" as="sourcePoint" />
@@ -159,21 +174,6 @@
         </mxCell>
         <mxCell id="Ki9TBUzkQfGxFeOzV7n9-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#CCFFFF;" parent="OCmmPgJFP9XWe1WX7dT5-1" vertex="1">
           <mxGeometry x="75" y="129" width="10" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="2njt6nfOIMfhhEkoGc3B-12" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;edgeStyle=orthogonalEdgeStyle;" parent="OCmmPgJFP9XWe1WX7dT5-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-235" y="425" as="sourcePoint" />
-            <mxPoint x="-235" y="455" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-150" y="425.5" />
-              <mxPoint x="-150" y="455.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ki9TBUzkQfGxFeOzV7n9-6" value="გარიგების სტატუსის&lt;br&gt;ცვლილება" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2njt6nfOIMfhhEkoGc3B-12" vertex="1" connectable="0">
-          <mxGeometry x="-0.23" y="1" relative="1" as="geometry">
-            <mxPoint x="18" y="-8" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Ki9TBUzkQfGxFeOzV7n9-4" value="დელეგირებული პირებისთვის&lt;br&gt;მოთხოვნის გადაგზავნა" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="OC2dcXIhTSpHi5Ehb43I-3" target="Ki9TBUzkQfGxFeOzV7n9-3" edge="1">
           <mxGeometry y="10" relative="1" as="geometry">
@@ -268,7 +268,7 @@
             <mxPoint x="1279.5" y="1081" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PGhUQlgjF5_GtO2V3m0p-4" value="კლიენტის თანხმობის&lt;br&gt;შემთხვევაში" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="lTMrrN4QKwK92IM0Nk2y-10" edge="1">
+        <mxCell id="PGhUQlgjF5_GtO2V3m0p-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;ოპერაციის დადასტურების&lt;br&gt;შემთხვევაში&lt;/b&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="lTMrrN4QKwK92IM0Nk2y-10" edge="1">
           <mxGeometry y="13" relative="1" as="geometry">
             <mxPoint x="200" y="663" as="sourcePoint" />
             <Array as="points">
