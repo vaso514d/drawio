@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T15:19:54.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="OHgqVPsSq6QEYVJx4iy0" version="20.8.23" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-11T09:00:58.982Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="scAKu6L0hj5gacoKV2am" version="20.8.23" type="github" pages="4">
   <diagram id="WNIIqbhXH_JYyIdbcv7f" name="შეღავათიანიi კურსზე შეთანხმება">
     <mxGraphModel dx="1632" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -486,12 +486,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iDMHjMToH96Z5OEKqoNc" name="შეღავთიანი კურსზე სიტყვიერი შეთანხმება">
-    <mxGraphModel dx="1632" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1488" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-iWegg6A6AynjhNWiqT7-1" value="&lt;b&gt;ბიზნეს ინტერნეტ ბანკი&lt;/b&gt;" style="swimlane;html=1;startSize=50;fontStyle=0;collapsible=0;horizontal=1;swimlaneLine=1;strokeWidth=2;swimlaneFillColor=#ffffff;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="20" y="40" width="250" height="1200" as="geometry" />
+          <mxGeometry x="20" y="40" width="250" height="1320" as="geometry" />
         </mxCell>
         <mxCell id="QcIzBeY2lkh9RdLvVed8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#660000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="-iWegg6A6AynjhNWiqT7-1" source="-iWegg6A6AynjhNWiqT7-3" target="QcIzBeY2lkh9RdLvVed8-1">
           <mxGeometry relative="1" as="geometry">
@@ -545,8 +545,11 @@
         <mxCell id="vHjxQm4uPunMVjM5JQCj-40" value="&lt;font color=&quot;#330000&quot;&gt;კონვერტაციის&lt;br&gt;დასრულება&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;fontStyle=1" vertex="1" parent="-iWegg6A6AynjhNWiqT7-1">
           <mxGeometry x="104" y="760" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="BK7AarGF7EFrW3idN-5d-5" value="&lt;b&gt;კონვერტაციის სტატუსის&lt;br&gt;გამოტანა კლიენტისთვის&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#330000;arcSize=24;" vertex="1" parent="-iWegg6A6AynjhNWiqT7-1">
+          <mxGeometry x="35" y="1129" width="180" height="57" as="geometry" />
+        </mxCell>
         <mxCell id="-iWegg6A6AynjhNWiqT7-25" value="TPS" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="581" y="40" width="650" height="1200" as="geometry" />
+          <mxGeometry x="581" y="40" width="650" height="1320" as="geometry" />
         </mxCell>
         <mxCell id="-iWegg6A6AynjhNWiqT7-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#006633;startArrow=none;startFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="-iWegg6A6AynjhNWiqT7-25" source="-iWegg6A6AynjhNWiqT7-47" target="-iWegg6A6AynjhNWiqT7-34" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -605,7 +608,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-iWegg6A6AynjhNWiqT7-32" value="TPS ოპერაციები" style="swimlane;html=1;startSize=40;" parent="-iWegg6A6AynjhNWiqT7-25" vertex="1">
-          <mxGeometry y="20" width="310" height="1180" as="geometry" />
+          <mxGeometry y="20" width="310" height="1300" as="geometry" />
         </mxCell>
         <mxCell id="-iWegg6A6AynjhNWiqT7-34" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=throwing;symbol=general;strokeColor=#006633;" parent="-iWegg6A6AynjhNWiqT7-32" vertex="1">
           <mxGeometry x="109" y="354" width="50" height="50" as="geometry" />
@@ -643,22 +646,31 @@
           <mxGeometry x="50" y="720" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vHjxQm4uPunMVjM5JQCj-42" value="&lt;b&gt;&lt;font color=&quot;#00331a&quot;&gt;კონვერტაციის&lt;br&gt;დასრულება&lt;/font&gt;&lt;/b&gt;" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;fontColor=#000000;strokeColor=#006633;" vertex="1" parent="-iWegg6A6AynjhNWiqT7-32">
-          <mxGeometry x="39" y="1090" width="50" height="50" as="geometry" />
+          <mxGeometry x="39" y="1206" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vHjxQm4uPunMVjM5JQCj-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontColor=#00331A;" edge="1" parent="-iWegg6A6AynjhNWiqT7-32" source="vHjxQm4uPunMVjM5JQCj-45" target="vHjxQm4uPunMVjM5JQCj-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BK7AarGF7EFrW3idN-5d-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#FF0000;" edge="1" parent="-iWegg6A6AynjhNWiqT7-32" source="vHjxQm4uPunMVjM5JQCj-45" target="BK7AarGF7EFrW3idN-5d-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vHjxQm4uPunMVjM5JQCj-45" value="&lt;b&gt;&quot;კონვერტაცია დასრულდა&quot;&lt;br&gt;სტატუსის მინიჭება&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#330000;arcSize=24;" vertex="1" parent="-iWegg6A6AynjhNWiqT7-32">
-          <mxGeometry x="120" y="1086.5" width="150" height="57" as="geometry" />
+          <mxGeometry x="120" y="1202.5" width="150" height="57" as="geometry" />
         </mxCell>
         <mxCell id="vHjxQm4uPunMVjM5JQCj-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontColor=#660000;" edge="1" parent="-iWegg6A6AynjhNWiqT7-32" source="vHjxQm4uPunMVjM5JQCj-47" target="vHjxQm4uPunMVjM5JQCj-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BK7AarGF7EFrW3idN-5d-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FF0000;" edge="1" parent="-iWegg6A6AynjhNWiqT7-32" source="vHjxQm4uPunMVjM5JQCj-47" target="BK7AarGF7EFrW3idN-5d-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vHjxQm4uPunMVjM5JQCj-47" value="&lt;b&gt;&quot;შეცდდომა&quot; სტატუსის&lt;br&gt;მინიჭება, შეცდომის ლოგირება&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#330000;arcSize=24;" vertex="1" parent="-iWegg6A6AynjhNWiqT7-32">
-          <mxGeometry x="125" y="1000" width="145" height="57" as="geometry" />
+          <mxGeometry x="123" y="1000" width="145" height="57" as="geometry" />
         </mxCell>
         <mxCell id="vHjxQm4uPunMVjM5JQCj-48" value="&lt;b&gt;&lt;font color=&quot;#990000&quot;&gt;ოპერაცია დასრულდა&lt;br&gt;წარუმატებლად&lt;/font&gt;&lt;/b&gt;" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;strokeColor=#CC0000;" vertex="1" parent="-iWegg6A6AynjhNWiqT7-32">
           <mxGeometry x="39" y="1003.5" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BK7AarGF7EFrW3idN-5d-1" value="&lt;b&gt;კონვერტაციის სტატუსის&lt;br&gt;დაბრუნება კლიენტისთვის&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#330000;arcSize=24;" vertex="1" parent="-iWegg6A6AynjhNWiqT7-32">
+          <mxGeometry x="105" y="1109" width="180" height="57" as="geometry" />
         </mxCell>
         <mxCell id="USwKGhKlE1OgOJ4GCldN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="-iWegg6A6AynjhNWiqT7-25" source="USwKGhKlE1OgOJ4GCldN-2" target="vHjxQm4uPunMVjM5JQCj-36" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -675,7 +687,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-iWegg6A6AynjhNWiqT7-41" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 79, 40);&quot;&gt;TPS&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;გარიგება&lt;/b&gt;" style="swimlane;html=1;startSize=40;" parent="-iWegg6A6AynjhNWiqT7-25" vertex="1">
-          <mxGeometry x="310" y="20" width="340" height="1180" as="geometry" />
+          <mxGeometry x="310" y="20" width="340" height="1300" as="geometry" />
         </mxCell>
         <mxCell id="-iWegg6A6AynjhNWiqT7-42" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" parent="-iWegg6A6AynjhNWiqT7-41" vertex="1">
           <mxGeometry x="50" y="180" width="50" height="50" as="geometry" />
@@ -826,7 +838,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vHjxQm4uPunMVjM5JQCj-1" value="B7 Conv Micro Serivice" style="swimlane;html=1;startSize=50;fontStyle=0;collapsible=0;horizontal=1;swimlaneLine=1;strokeWidth=2;swimlaneFillColor=#ffffff;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1436" y="40" width="240" height="1200" as="geometry" />
+          <mxGeometry x="1436" y="40" width="240" height="1320" as="geometry" />
         </mxCell>
         <mxCell id="vHjxQm4uPunMVjM5JQCj-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontColor=#00331A;" edge="1" parent="vHjxQm4uPunMVjM5JQCj-1" source="vHjxQm4uPunMVjM5JQCj-4" target="vHjxQm4uPunMVjM5JQCj-32">
           <mxGeometry relative="1" as="geometry" />
@@ -920,8 +932,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="860" y="1175" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1531" y="1175" />
-              <mxPoint x="1420" y="1175" />
+              <mxPoint x="1531" y="1290" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -945,7 +956,7 @@
         </mxCell>
         <UserObject label="CancellDeal" id="DVmQEZGqdUfnzh5flwEW-1">
           <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontColor=#000000;" vertex="1" parent="1">
-            <mxGeometry x="1250" y="1135" width="160" height="78" as="geometry" />
+            <mxGeometry x="1250" y="1251" width="160" height="78" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="DVmQEZGqdUfnzh5flwEW-2" value="REC_ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="DVmQEZGqdUfnzh5flwEW-1">
@@ -957,9 +968,41 @@
         <mxCell id="DVmQEZGqdUfnzh5flwEW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FF0000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DVmQEZGqdUfnzh5flwEW-2" target="vHjxQm4uPunMVjM5JQCj-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1250" y="1175" />
+              <mxPoint x="1250" y="1291" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BK7AarGF7EFrW3idN-5d-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BK7AarGF7EFrW3idN-5d-1" target="BK7AarGF7EFrW3idN-5d-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="1250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="1198" />
+              <mxPoint x="550" y="1279" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="SuggestedRate" id="BK7AarGF7EFrW3idN-5d-6">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontColor=#000000;" vertex="1" parent="1">
+            <mxGeometry x="330" y="1240" width="160" height="156" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="BK7AarGF7EFrW3idN-5d-7" value="RequestID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="BK7AarGF7EFrW3idN-5d-6">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="BK7AarGF7EFrW3idN-5d-16" value="ClientID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="BK7AarGF7EFrW3idN-5d-6">
+          <mxGeometry y="52" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="BK7AarGF7EFrW3idN-5d-10" value="IsSuccess (true/false)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="BK7AarGF7EFrW3idN-5d-6">
+          <mxGeometry y="78" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="BK7AarGF7EFrW3idN-5d-11" value="ErrCode?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="BK7AarGF7EFrW3idN-5d-6">
+          <mxGeometry y="104" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="BK7AarGF7EFrW3idN-5d-12" value="ErrMsg?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="BK7AarGF7EFrW3idN-5d-6">
+          <mxGeometry y="130" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="BK7AarGF7EFrW3idN-5d-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#FF0000;" edge="1" parent="1" source="BK7AarGF7EFrW3idN-5d-16" target="BK7AarGF7EFrW3idN-5d-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
