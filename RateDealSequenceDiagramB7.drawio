@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T13:40:20.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="cwq8TZj8On0Hn2jeXCiD" version="20.8.23" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-13T13:41:05.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="6_9-s0BObYILFsdLjl2O" version="20.8.23" type="github" pages="4">
   <diagram id="Hz9vTrac9k6EBb7m44WP" name="შეღავათიანიi კურსზე შეთანხმება SD">
     <mxGraphModel dx="2202" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -111,11 +111,11 @@
         </mxCell>
         <mxCell id="no12ammSPmac_XV-QVry-1" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="OC2dcXIhTSpHi5Ehb43I-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="85" y="1070" as="sourcePoint" />
-            <mxPoint x="85" y="1100" as="targetPoint" />
+            <mxPoint x="85" y="1080" as="sourcePoint" />
+            <mxPoint x="85" y="1110" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="170" y="1070.5" />
-              <mxPoint x="170" y="1100.5" />
+              <mxPoint x="170" y="1080.5" />
+              <mxPoint x="170" y="1110.5" />
             </Array>
           </mxGeometry>
         </mxCell>
