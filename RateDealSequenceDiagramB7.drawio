@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T12:07:05.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="S4eTvS0hONm7AMqBlOhI" version="20.8.23" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-13T12:08:46.765Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="89V-cZ0bU5OPLp2BWNVr" version="20.8.23" type="github" pages="2">
   <diagram id="Hz9vTrac9k6EBb7m44WP" name="შეღავათიანიi კურსზე შეთანხმება SD">
     <mxGraphModel dx="1632" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -668,7 +668,7 @@
         </mxCell>
         <UserObject label="ReturnOpStatus" id="NMGzmj7_dPsPPjgjZv2B-46">
           <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;fontColor=#000000;" parent="1" vertex="1">
-            <mxGeometry x="320" y="1030" width="160" height="130" as="geometry" />
+            <mxGeometry x="334" y="1030" width="160" height="130" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="NMGzmj7_dPsPPjgjZv2B-47" value="RequestID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=#000000;" parent="NMGzmj7_dPsPPjgjZv2B-46" vertex="1">
@@ -765,8 +765,9 @@
         </mxCell>
         <mxCell id="NMGzmj7_dPsPPjgjZv2B-70" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" source="NMGzmj7_dPsPPjgjZv2B-11" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="1080" as="targetPoint" />
+            <mxPoint x="490" y="1070" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="550" y="1070" />
               <mxPoint x="560" y="1080" />
               <mxPoint x="520" y="1070" />
               <mxPoint x="560" y="1050" />
