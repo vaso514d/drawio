@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-11T10:03:49.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="C9kOWoqRnOD4cLgcBEMS" version="20.8.23" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-13T06:31:30.003Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ZQGeBE9QUg-R74BTaYiS" version="20.8.23" type="github" pages="4">
   <diagram id="WNIIqbhXH_JYyIdbcv7f" name="შეღავათიანიi კურსზე შეთანხმება">
-    <mxGraphModel dx="1248" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,11 +10,11 @@
         <mxCell id="fLT7ioBLnvyj1-0Y534x-7" value="წითელი&lt;br&gt;ვალიდაცია" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;strokeColor=#CC0000;" parent="fLT7ioBLnvyj1-0Y534x-1" vertex="1">
           <mxGeometry x="30" y="190" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wgrzdKiIrD9vjS3h5TYz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;fontColor=#00331A;" edge="1" parent="fLT7ioBLnvyj1-0Y534x-1" source="fLT7ioBLnvyj1-0Y534x-8" target="wgrzdKiIrD9vjS3h5TYz-1">
+        <mxCell id="wgrzdKiIrD9vjS3h5TYz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#00331A;" edge="1" parent="fLT7ioBLnvyj1-0Y534x-1" source="fLT7ioBLnvyj1-0Y534x-8" target="wgrzdKiIrD9vjS3h5TYz-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="10" y="334" />
-              <mxPoint x="10" y="805" />
+              <mxPoint x="20" y="334" />
+              <mxPoint x="20" y="805" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -569,7 +569,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iDMHjMToH96Z5OEKqoNc" name="შეღავთიანი კურსზე სიტყვიერი შეთანხმება">
-    <mxGraphModel dx="1248" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2029" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
