@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-11T10:24:24.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="x-y4kFmLdEZmj_m-x3Tx" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-13T05:49:47.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="BqOzREugz2AK7RVqWCHe" version="20.8.23" type="github">
   <diagram id="Hz9vTrac9k6EBb7m44WP" name="შეღავათიანიi კურსზე შეთანხმება SD">
-    <mxGraphModel dx="1488" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1872" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,17 +12,17 @@
         </mxCell>
         <mxCell id="reUfo1CFChtaAdtldBo7-3" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;edgeStyle=orthogonalEdgeStyle;exitX=0.2;exitY=0.153;exitDx=0;exitDy=0;exitPerimeter=0;" parent="NapRjpGxGWk-yeD8tq0e-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="100.00000000000003" as="sourcePoint" />
-            <mxPoint x="82.5" y="121.15" as="targetPoint" />
+            <mxPoint x="80" y="90.00000000000003" as="sourcePoint" />
+            <mxPoint x="82.5" y="111.15" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-28" y="100" />
-              <mxPoint x="-28" y="121" />
+              <mxPoint x="-28" y="90" />
+              <mxPoint x="-28" y="111" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="reUfo1CFChtaAdtldBo7-4" value="მოთხოვნის ID -ის&lt;br&gt;ფორმირება" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="reUfo1CFChtaAdtldBo7-3" vertex="1" connectable="0">
           <mxGeometry x="-0.23" y="1" relative="1" as="geometry">
-            <mxPoint x="18" y="-8" as="offset" />
+            <mxPoint x="18" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JqXxi1MpLHZqpj23ZU03-1" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;edgeStyle=orthogonalEdgeStyle;exitX=0.2;exitY=0.153;exitDx=0;exitDy=0;exitPerimeter=0;" parent="NapRjpGxGWk-yeD8tq0e-1" edge="1">
