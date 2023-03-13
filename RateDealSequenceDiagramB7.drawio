@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T12:48:15.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="GfsYVqsgRRx_bD4rHk7F" version="20.8.23" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-13T13:40:20.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="cwq8TZj8On0Hn2jeXCiD" version="20.8.23" type="github" pages="4">
   <diagram id="Hz9vTrac9k6EBb7m44WP" name="შეღავათიანიi კურსზე შეთანხმება SD">
-    <mxGraphModel dx="1632" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2202" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,9 +140,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OC2dcXIhTSpHi5Ehb43I-4" value="შეღავათიანი კურსის&lt;br&gt;მოთხოვნა" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NapRjpGxGWk-yeD8tq0e-1" target="aCDmaK2JJfqGugbTNvCX-6" edge="1">
-          <mxGeometry x="-0.0345" y="14" relative="1" as="geometry">
+          <mxGeometry x="-0.0054" y="10" relative="1" as="geometry">
             <mxPoint x="348" y="190" as="sourcePoint" />
             <Array as="points">
+              <mxPoint x="240" y="210" />
               <mxPoint x="248" y="204" />
               <mxPoint x="238" y="220" />
               <mxPoint x="248" y="200" />
@@ -166,8 +167,8 @@
         <mxCell id="aCDmaK2JJfqGugbTNvCX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aCDmaK2JJfqGugbTNvCX-1" target="OC2dcXIhTSpHi5Ehb43I-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="518" y="210" />
-              <mxPoint x="518" y="210" />
+              <mxPoint x="570" y="240" />
+              <mxPoint x="570" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
