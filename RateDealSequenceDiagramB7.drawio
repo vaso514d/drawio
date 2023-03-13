@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T11:56:25.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="QTeoEB6455EXUdpr7Trf" version="20.8.23" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-13T12:01:37.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="9rBdWehyMq53niTL7_s_" version="20.8.23" type="github" pages="2">
   <diagram id="Hz9vTrac9k6EBb7m44WP" name="შეღავათიანიi კურსზე შეთანხმება SD">
     <mxGraphModel dx="1632" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -81,11 +81,11 @@
         </mxCell>
         <mxCell id="JqXxi1MpLHZqpj23ZU03-3" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;edgeStyle=orthogonalEdgeStyle;" parent="OC2dcXIhTSpHi5Ehb43I-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="85" y="160" as="sourcePoint" />
-            <mxPoint x="85" y="190" as="targetPoint" />
+            <mxPoint x="85" y="220" as="sourcePoint" />
+            <mxPoint x="85" y="250" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="172" y="160" />
-              <mxPoint x="172" y="190" />
+              <mxPoint x="172" y="220" />
+              <mxPoint x="172" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -96,11 +96,11 @@
         </mxCell>
         <mxCell id="uLg5EmaOAYXGtRVUcYHG-2" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="OC2dcXIhTSpHi5Ehb43I-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="85" y="230" as="sourcePoint" />
-            <mxPoint x="85" y="260" as="targetPoint" />
+            <mxPoint x="85" y="280" as="sourcePoint" />
+            <mxPoint x="85" y="310" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="172" y="230" />
-              <mxPoint x="172" y="260" />
+              <mxPoint x="172" y="280" />
+              <mxPoint x="172" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -120,6 +120,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="no12ammSPmac_XV-QVry-2" value="გარიგების სტატუსის&lt;br&gt;ცვლილება" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="no12ammSPmac_XV-QVry-1">
+          <mxGeometry x="-0.23" y="1" relative="1" as="geometry">
+            <mxPoint x="18" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q5-hK6MubIxNDAZBo6VR-1" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="OC2dcXIhTSpHi5Ehb43I-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="85" y="160" as="sourcePoint" />
+            <mxPoint x="85" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="160.5" />
+              <mxPoint x="170" y="190.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q5-hK6MubIxNDAZBo6VR-2" value="გარიგების ჩანაწერის&lt;br&gt;შექმნა" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q5-hK6MubIxNDAZBo6VR-1">
           <mxGeometry x="-0.23" y="1" relative="1" as="geometry">
             <mxPoint x="18" y="-8" as="offset" />
           </mxGeometry>
@@ -490,28 +505,10 @@
           <mxGeometry x="548" y="80" width="160" height="1120" as="geometry" />
         </mxCell>
         <mxCell id="NMGzmj7_dPsPPjgjZv2B-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#CCFFFF;" parent="NMGzmj7_dPsPPjgjZv2B-9" vertex="1">
-          <mxGeometry x="75" y="80" width="10" height="200" as="geometry" />
+          <mxGeometry x="75" y="80" width="10" height="160" as="geometry" />
         </mxCell>
         <mxCell id="NMGzmj7_dPsPPjgjZv2B-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#CCFFFF;" parent="NMGzmj7_dPsPPjgjZv2B-9" vertex="1">
           <mxGeometry x="75" y="280" width="10" height="800" as="geometry" />
-        </mxCell>
-        <mxCell id="NMGzmj7_dPsPPjgjZv2B-12" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;edgeStyle=orthogonalEdgeStyle;" parent="NMGzmj7_dPsPPjgjZv2B-9" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="85" y="720" as="sourcePoint" />
-            <mxPoint x="85" y="750" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="170" y="720.5" />
-              <mxPoint x="170" y="750.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NMGzmj7_dPsPPjgjZv2B-13" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;კურსის/შეთანხმების&lt;br style=&quot;border-color: var(--border-color); font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;ვალიდაცია ?&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NMGzmj7_dPsPPjgjZv2B-12" vertex="1" connectable="0">
-          <mxGeometry x="-0.23" y="1" relative="1" as="geometry">
-            <mxPoint x="18" y="-8" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NMGzmj7_dPsPPjgjZv2B-14" value="თუ შეთანხმება არა&#xa;ვალიდურია" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=#FFFFFF;fontSize=8;" parent="NMGzmj7_dPsPPjgjZv2B-9" vertex="1">
-          <mxGeometry x="-37" y="747" width="112" height="26" as="geometry" />
         </mxCell>
         <mxCell id="NMGzmj7_dPsPPjgjZv2B-38" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;edgeStyle=orthogonalEdgeStyle;" parent="NMGzmj7_dPsPPjgjZv2B-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -524,6 +521,36 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NMGzmj7_dPsPPjgjZv2B-39" value="კურსის შეთანხმება&lt;br&gt;კლიენტთან" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NMGzmj7_dPsPPjgjZv2B-38" vertex="1" connectable="0">
+          <mxGeometry x="-0.23" y="1" relative="1" as="geometry">
+            <mxPoint x="18" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NMGzmj7_dPsPPjgjZv2B-15" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;edgeStyle=orthogonalEdgeStyle;" parent="NMGzmj7_dPsPPjgjZv2B-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="85" y="600" as="sourcePoint" />
+            <mxPoint x="85" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="600.5" />
+              <mxPoint x="170" y="630.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NMGzmj7_dPsPPjgjZv2B-16" value="გარიგების სტატუსის&lt;br&gt;ცვლილება" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NMGzmj7_dPsPPjgjZv2B-15" vertex="1" connectable="0">
+          <mxGeometry x="-0.23" y="1" relative="1" as="geometry">
+            <mxPoint x="18" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="79l-TfuWoo2jlcZSOs_t-1" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="NMGzmj7_dPsPPjgjZv2B-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="85" y="160" as="sourcePoint" />
+            <mxPoint x="85" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="160.5" />
+              <mxPoint x="170" y="190.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="79l-TfuWoo2jlcZSOs_t-2" value="გარიგების ჩანაწერის&lt;br&gt;შექმნა" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79l-TfuWoo2jlcZSOs_t-1">
           <mxGeometry x="-0.23" y="1" relative="1" as="geometry">
             <mxPoint x="18" y="-8" as="offset" />
           </mxGeometry>
@@ -567,15 +594,15 @@
           <mxGeometry x="960" y="80" width="160" height="1120" as="geometry" />
         </mxCell>
         <mxCell id="NMGzmj7_dPsPPjgjZv2B-41" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#CCFFFF;strokeColor=#6c8ebf;" parent="NMGzmj7_dPsPPjgjZv2B-40" vertex="1">
-          <mxGeometry x="75" y="800" width="10" height="280" as="geometry" />
+          <mxGeometry x="75" y="720" width="10" height="360" as="geometry" />
         </mxCell>
         <mxCell id="NMGzmj7_dPsPPjgjZv2B-42" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;edgeStyle=orthogonalEdgeStyle;" parent="NMGzmj7_dPsPPjgjZv2B-40" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="85" y="850" as="sourcePoint" />
-            <mxPoint x="85" y="880" as="targetPoint" />
+            <mxPoint x="85" y="760" as="sourcePoint" />
+            <mxPoint x="85" y="790" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="160" y="850" />
-              <mxPoint x="160" y="880" />
+              <mxPoint x="160" y="760" />
+              <mxPoint x="160" y="790" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -709,7 +736,7 @@
         </mxCell>
         <mxCell id="NMGzmj7_dPsPPjgjZv2B-68" value="კონვერტაციის ოპერაციის&lt;br&gt;გადაგზავნა" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NMGzmj7_dPsPPjgjZv2B-67" vertex="1" connectable="0">
           <mxGeometry x="-0.3882" y="-1" relative="1" as="geometry">
-            <mxPoint x="-79" y="-28" as="offset" />
+            <mxPoint x="-36" y="-28" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NMGzmj7_dPsPPjgjZv2B-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.95;entryY=0.88;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="NMGzmj7_dPsPPjgjZv2B-47" target="NMGzmj7_dPsPPjgjZv2B-2" edge="1">
@@ -752,24 +779,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NMGzmj7_dPsPPjgjZv2B-75" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;fontColor=#FF0000;dashed=1;" parent="1" source="NMGzmj7_dPsPPjgjZv2B-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="470" y="860" />
-              <mxPoint x="270" y="971" />
-              <mxPoint x="250" y="960" />
-              <mxPoint x="340" y="970" />
-              <mxPoint x="290" y="990" />
-              <mxPoint x="460" y="970" />
-            </Array>
-            <mxPoint x="200" y="860" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NMGzmj7_dPsPPjgjZv2B-76" value="ვალიდაციის შეცდომის&lt;br&gt;შეტყობინების&amp;nbsp;დაბრუნება" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#990000;fontStyle=1" parent="NMGzmj7_dPsPPjgjZv2B-75" vertex="1" connectable="0">
-          <mxGeometry x="0.1582" y="-1" relative="1" as="geometry">
-            <mxPoint x="-39" y="-20" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7s_9sRm-GXUVsdinn2DH-1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;fontSize=10;fontColor=#990000;" parent="1" source="NMGzmj7_dPsPPjgjZv2B-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="280" as="targetPoint" />
@@ -785,24 +794,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7s_9sRm-GXUVsdinn2DH-3" value="შეღავათიანი კურსი" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontColor=#990000;" parent="7s_9sRm-GXUVsdinn2DH-2" vertex="1" connectable="0">
+        <mxCell id="7s_9sRm-GXUVsdinn2DH-3" value="შეთანხმებული კურსი" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontColor=#660000;fontStyle=1" parent="7s_9sRm-GXUVsdinn2DH-2" vertex="1" connectable="0">
           <mxGeometry x="0.4527" y="-1" relative="1" as="geometry">
             <mxPoint x="11" y="-23" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NMGzmj7_dPsPPjgjZv2B-15" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="633" y="700" as="sourcePoint" />
-            <mxPoint x="633" y="730" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="718" y="700.5" />
-              <mxPoint x="718" y="730.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NMGzmj7_dPsPPjgjZv2B-16" value="გარიგების სტატუსის&lt;br&gt;ცვლილება" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NMGzmj7_dPsPPjgjZv2B-15" vertex="1" connectable="0">
-          <mxGeometry x="-0.23" y="1" relative="1" as="geometry">
-            <mxPoint x="18" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
